@@ -1,7 +1,7 @@
 # EmotivEpocAffectiveData
 > A java-based method to write Affective data from the Epoc to a text file! Usable with Unity!
 
-This program uses the .osc method of writing plain text data of the User's affective state in the Emotiv EPOC to a given file over port 7400. I used this class in my thesis to be interpreted as a text file by the Unity Engine. An alternative file could be a .xml file.
+This program uses the .osc method of writing plain text data of the User's affective state in an Emotiv EPOC headset to a given file over port 7400. I used this class in my thesis to be interpreted as a text file by the Unity Engine. An alternative file could be a .xml file.
 
 ## Features
 
@@ -17,6 +17,10 @@ This program uses the .osc method of writing plain text data of the User's affec
     - Java files
     - Runs over local network, default is port 7400.
     - OSC library files designed by Andreas Schlegel http://www.sojamo.de/libraries/oscP5
+
+## Emotiv Epoc
+
+Find out what the headset is, and does here: https://www.emotiv.com/epoc/
 
 ## Installation
 
