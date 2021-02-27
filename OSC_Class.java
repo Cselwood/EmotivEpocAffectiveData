@@ -1,6 +1,6 @@
 // Imports
 // ====================================================
-package osc_javabundler;
+package emotivepocaffectivedata;
 import java.io.*;
 import oscP5.*;
 import netP5.*;
